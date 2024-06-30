@@ -12,9 +12,9 @@
 * team playing
 # Skills
 * HTML
-    - **CSS**
-    - **JS**
-    - **Git/Github**
+* CSS
+* JS
+* Git/Github
 # Code examples
 ```
 <button onclick="
@@ -28,7 +28,7 @@
       </button>
 ```
 # Education
-    - **BSEU**
+    - BSEU
 # Languages
-- **Russian :** native
+- **Russian :** *native*
 - **English :** *A2*
