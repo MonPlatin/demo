@@ -6,7 +6,7 @@
 ## About me
 * I am 26 years old, I work as a economist. I want to change my specialty to IT, because this is a sought-after field that involves constant self-development and the opportunity to influence your career growth.
 ### - My stengths 
-* quick learner
+* quick learner mjjn
 * ull immersion in the essence of the problems
 * diligence
 * team playing
